@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on expanding my skillset for indemand programming languages and concepts including C# and NLP
+- 🔭 I’m currently working on learning new things including C# and NLP
 - 🤔 I’m looking for help with creating games with flame for flutter
 - 📫 How to reach me: by email at davidli012345@gmail.com
 - ⚡ Fun fact: Hopefully I will be a millionaire from the stock market in 10 years.
