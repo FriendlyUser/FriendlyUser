@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with creating games with flame for flutter
 - 📫 How to reach me: by email at davidli012345@gmail.com
 - ⚡ Fun fact: Quite interested in investing.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FriendlyUser)](https://github.com/anuraghazra/github-readme-stats)
