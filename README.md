@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 [![FriendlyUser's github stats](https://github-readme-stats.vercel.app/api?username=FriendlyUser)](https://github.com/anuraghazra/github-readme-stats)
 
+
+Some of my financial projects are available at https://github.com/dli-invest
+
 ## Donate
 If you would like to motivate me to spend more time improving open source projects please consider donating.
 
