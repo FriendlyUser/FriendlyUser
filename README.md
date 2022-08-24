@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ![](https://komarev.com/ghpvc/?username=FriendlyUser&color=blue)
 <!--
 **FriendlyUser/FriendlyUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 
 Some of my financial projects are available at https://github.com/dli-invest
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Donate
 If you would like to motivate me to spend more time improving open source projects please consider donating.
