@@ -25,6 +25,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I applied nlp to various youtube videos](https://friendlyuser.github.io/astro-tech-blog/posts/tracking_youtube_videos_with_nlp/)
+- [Adding search to static sites with pagefind](https://friendlyuser.github.io/astro-tech-blog/posts/adding_search_to_static_sites/)
+- [Thoughts after trying to sell dall-e images on the internet](https://friendlyuser.github.io/astro-tech-blog/posts/attempting_to_sell_dall-e_images/)
+- [Flutter Remove background from image web app Part III](https://friendlyuser.github.io/astro-tech-blog/posts/remove_background_from_image_III/)
+- [Flutter Remove background from image web app Part II](https://friendlyuser.github.io/astro-tech-blog/posts/remove_background_from_image_II/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
