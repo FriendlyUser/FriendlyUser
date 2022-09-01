@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 [![FriendlyUser's github stats](https://github-readme-stats.vercel.app/api?username=FriendlyUser)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![@FriendlyUser Astro contributions](https://astro.badg.es/v1/contributor/FriendlyUser.svg)](https://astro.badg.es/v1/contributor/FriendlyUser/)
+
 Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
