@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Top languages stats, dont think these are accurate at all. Here for your amusement
 
 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=FriendlyUser](https://github-readme-stats.vercel.app/api/top-langs/?username=FriendlyUser&hide=html,Jupyter%20Notebook)&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io](https://github-readme-stats.vercel.app/api/top-langs/?username=FriendlyUser&hide=html,Jupyter%20Notebook&langs_count=8))]
 
 # [![@FriendlyUser Astro contributions](https://astro.badg.es/v1/contributor/FriendlyUser.svg)](https://astro.badg.es/v1/contributor/FriendlyUser/)
 
