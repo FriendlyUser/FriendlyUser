@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - 🤔 Aiming to learn C# through personal projects asap.
 - 📫 How to reach me: by email at davidli012345@gmail.com or find me on [Stack Overflow](https://stackoverflow.com/users/10226731/grandfleet)
 
-[![FriendlyUser's github stats](https://github-readme-stats.vercel.app/api?username=dli-invest)](https://github.com/anuraghazra/github-readme-stats)
+[![FriendlyUser's github stats](https://github-readme-stats.vercel.app/api?username=FriendlyUser)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriendlyUser&hide=Jupyter Notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriendlyUser&theme=tokyonight)
 
 # [![@FriendlyUser Astro contributions](https://astro.badg.es/v1/contributor/FriendlyUser.svg)](https://astro.badg.es/v1/contributor/FriendlyUser/)
 
