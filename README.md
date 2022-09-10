@@ -26,6 +26,7 @@ Top languages stats, dont think these are accurate at all. Here for your amuseme
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriendlyUser&hide=html,Jupyter%20Notebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+Stack overflow stats
 [![David Li StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10226731)](https://stackoverflow.com/users/10226731/grandfleet)
 
 Some of my financial projects are available at https://github.com/dli-invest
