@@ -35,11 +35,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to parse git commits using dotnet](https://friendlyuser.github.io/astro-tech-blog/posts/tech/parsing_git_commits_with_dotnet/)
 - [Analyzing RBC Stock Trades with python](https://friendlyuser.github.io/astro-tech-blog/posts/stonks/rbc_stock_trade_analyzer/)
 - [Heroku shutdown how to migrate to koyeb](https://friendlyuser.github.io/astro-tech-blog/posts/heroku_shutdown_migrate_to_koyeb/)
 - [How I applied nlp to various youtube videos](https://friendlyuser.github.io/astro-tech-blog/posts/tracking_youtube_videos_with_nlp/)
 - [Adding search to static sites with pagefind](https://friendlyuser.github.io/astro-tech-blog/posts/adding_search_to_static_sites/)
-- [Thoughts after trying to sell dall-e images on the internet](https://friendlyuser.github.io/astro-tech-blog/posts/attempting_to_sell_dall-e_images/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
