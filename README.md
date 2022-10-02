@@ -35,11 +35,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evaluating whispers vs current alternatives](https://friendlyuser.github.io/astro-tech-blog/posts/tech/evaluating_whispers_vs_current_alternatives/)
 - [Upgrading from material v4 to mui v5](https://friendlyuser.github.io/astro-tech-blog/posts/tech/upgrading_from_muiv4_to_mui_v5/)
 - [How to parse git commits using dotnet](https://friendlyuser.github.io/astro-tech-blog/posts/tech/parsing_git_commits_with_dotnet/)
 - [Analyzing RBC Stock Trades with python](https://friendlyuser.github.io/astro-tech-blog/posts/stonks/rbc_stock_trade_analyzer/)
 - [Heroku shutdown how to migrate to koyeb](https://friendlyuser.github.io/astro-tech-blog/posts/heroku_shutdown_migrate_to_koyeb/)
-- [How I applied nlp to various youtube videos](https://friendlyuser.github.io/astro-tech-blog/posts/tracking_youtube_videos_with_nlp/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
