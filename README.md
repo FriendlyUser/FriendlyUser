@@ -35,11 +35,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Grabbing list of animes from my anime list using openapi and dotnet](https://friendlyuser.github.io/posts/tech/grabbing_top_anime_shows_from_mal/)
 - [Updating videos using the youtube api](https://friendlyuser.github.io/posts/tech/uploading_videos_in_youtube_through_the_api/)
 - [How to generate remotion videos using the whispers transcript](https://friendlyuser.github.io/posts/tech/using_remotion_to_make_videos/)
 - [How to transcribe youtube videos using whispers](https://friendlyuser.github.io/posts/tech/using_whispers_to_transcribe_youtube_videos/)
 - [Evaluating whispers vs current alternatives](https://friendlyuser.github.io/posts/tech/evaluating_whispers_vs_current_alternatives/)
-- [Upgrading from material v4 to mui v5](https://friendlyuser.github.io/posts/tech/upgrading_from_muiv4_to_mui_v5/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
