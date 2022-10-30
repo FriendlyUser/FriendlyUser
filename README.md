@@ -36,10 +36,10 @@ Some of my financial projects are available at https://github.com/dli-invest
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Simple script to checkout files](https://friendlyuser.github.io/posts/tech/simple_script_to_checkout_files/)
+- [How I built out my latex diagrams project](https://friendlyuser.github.io/posts/tech/building_out_latex_diagrams/)
 - [Scrapping comments from Yahoo Finance using dotnet](https://friendlyuser.github.io/posts/stonks/scrapping_comments_from_yahoo_finance/)
 - [Grabbing list of animes from my anime list using openapi and dotnet](https://friendlyuser.github.io/posts/tech/grabbing_top_anime_shows_from_mal/)
 - [Updating videos using the youtube api](https://friendlyuser.github.io/posts/tech/uploading_videos_in_youtube_through_the_api/)
-- [How to generate remotion videos using the whispers transcript](https://friendlyuser.github.io/posts/tech/using_remotion_to_make_videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
