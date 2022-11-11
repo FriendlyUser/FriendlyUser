@@ -35,11 +35,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Updating list of entries in react](https://friendlyuser.github.io/posts/tech/updating_list_of_entries_in_react/)
+- [Scrapping comments from Yahoo Finance using dotnet Part 2](https://friendlyuser.github.io/posts/stonks/scrapping_comments_from_yahoo_finance_II/)
 - [Simple script to checkout files](https://friendlyuser.github.io/posts/tech/simple_script_to_checkout_files/)
 - [How I built out my latex diagrams project](https://friendlyuser.github.io/posts/tech/building_out_latex_diagrams/)
 - [Scrapping comments from Yahoo Finance using dotnet](https://friendlyuser.github.io/posts/stonks/scrapping_comments_from_yahoo_finance/)
-- [Scrapping comments from Yahoo Finance using dotnet Part 2](https://friendlyuser.github.io/posts/stonks/scrapping_comments_from_yahoo_finance_II/)
-- [Grabbing list of animes from my anime list using openapi and dotnet](https://friendlyuser.github.io/posts/tech/grabbing_top_anime_shows_from_mal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
