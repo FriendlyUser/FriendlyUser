@@ -36,10 +36,10 @@ Some of my financial projects are available at https://github.com/dli-invest
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Updating list of entries in react](https://friendlyuser.github.io/posts/tech/updating_list_of_entries_in_react/)
+- [Basic React Native Template](https://friendlyuser.github.io/posts/tech/basic_react_native_template/)
+- [Trump Quotes app for flutter](https://friendlyuser.github.io/posts/tech/flutter_app_for_trump_quotes/)
 - [Scrapping comments from Yahoo Finance using dotnet Part 2](https://friendlyuser.github.io/posts/stonks/scrapping_comments_from_yahoo_finance_II/)
 - [Simple script to checkout files](https://friendlyuser.github.io/posts/tech/simple_script_to_checkout_files/)
-- [How I built out my latex diagrams project](https://friendlyuser.github.io/posts/tech/building_out_latex_diagrams/)
-- [Scrapping comments from Yahoo Finance using dotnet](https://friendlyuser.github.io/posts/stonks/scrapping_comments_from_yahoo_finance/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
