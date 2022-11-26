@@ -37,9 +37,9 @@ Some of my financial projects are available at https://github.com/dli-invest
 <!-- BLOG-POST-LIST:START -->
 - [Using remotion for game highlights](https://friendlyuser.github.io/posts/tech/video_for_game_highlights/)
 - [Updating list of entries in react](https://friendlyuser.github.io/posts/tech/updating_list_of_entries_in_react/)
+- [Intermittent build failures on react native android due to jcenter](https://friendlyuser.github.io/posts/tech/jcenter_crashing_react_native_app/)
 - [Basic React Native Template](https://friendlyuser.github.io/posts/tech/basic_react_native_template/)
 - [Trump Quotes app for flutter](https://friendlyuser.github.io/posts/tech/flutter_app_for_trump_quotes/)
-- [Scrapping comments from Yahoo Finance using dotnet Part 2](https://friendlyuser.github.io/posts/stonks/scrapping_comments_from_yahoo_finance_II/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
