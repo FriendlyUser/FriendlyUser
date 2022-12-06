@@ -36,10 +36,10 @@ Some of my financial projects are available at https://github.com/dli-invest
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Getting started with strapi](https://friendlyuser.github.io/posts/tech/getting_started_with_strapi_cloud/)
+- [Overview of corporate landing page done in react with microsoft fabric ui](https://friendlyuser.github.io/posts/tech/react_corp_landing_page/)
 - [Using remotion for game highlights](https://friendlyuser.github.io/posts/tech/video_for_game_highlights/)
 - [Updating list of entries in react](https://friendlyuser.github.io/posts/tech/updating_list_of_entries_in_react/)
 - [Intermittent build failures on react native android due to jcenter](https://friendlyuser.github.io/posts/tech/jcenter_crashing_react_native_app/)
-- [Basic React Native Template](https://friendlyuser.github.io/posts/tech/basic_react_native_template/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
