@@ -35,11 +35,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with strapi](https://friendlyuser.github.io/posts/tech/getting_started_with_strapi_cloud/)
-- [Overview of corporate landing page done in react with microsoft fabric ui](https://friendlyuser.github.io/posts/tech/react_corp_landing_page/)
-- [Using remotion for game highlights](https://friendlyuser.github.io/posts/tech/video_for_game_highlights/)
-- [Updating list of entries in react](https://friendlyuser.github.io/posts/tech/updating_list_of_entries_in_react/)
-- [Intermittent build failures on react native android due to jcenter](https://friendlyuser.github.io/posts/tech/jcenter_crashing_react_native_app/)
+- [Auto suggestions on linkedin are poor](https://friendlyuser.github.io/posts/random/linkedin_auto_suggestions/)
+- [Auto suggestions on linkedin are poor](https://friendlyuser.github.io/posts/tech/flutter_todo_list_with_supabase/)
+- [Building an interactive nlp ui for a custom nlp pipeline in spacy](https://friendlyuser.github.io/posts/stonks/gradio_ui_for_nlp_stonks/)
+- [Building an interactive stock ta app with streamlit and openbb](https://friendlyuser.github.io/posts/stonks/build_dashboard_with_openbb/)
+- [Building an interactive stock ta app with streamlit and openbb](https://friendlyuser.github.io/posts/stonks/stock_dashboard_ta/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
