@@ -35,11 +35,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Get Transcript of youtube livestreams Part II](https://friendlyuser.github.io/posts/stonks/get_transcript_of_youtube_livestreams_part_two/)
+- [Get Transcript of youtube livestreams Part I](https://friendlyuser.github.io/posts/stonks/get_transcript_of_youtube_livestreams_part_one/)
+- [Spaceshooter in Go](https://friendlyuser.github.io/posts/tech/spaceshooter_in_go/)
 - [Simple web app to transcribe audio](https://friendlyuser.github.io/posts/stonks/web_app_to_transcribe_audio/)
 - [Auto suggestions on linkedin are poor](https://friendlyuser.github.io/posts/random/linkedin_auto_suggestions/)
-- [Auto suggestions on linkedin are poor](https://friendlyuser.github.io/posts/tech/flutter_todo_list_with_supabase/)
-- [Building an interactive nlp ui for a custom nlp pipeline in spacy](https://friendlyuser.github.io/posts/stonks/gradio_ui_for_nlp_stonks/)
-- [Building an interactive stock ta app with streamlit and openbb](https://friendlyuser.github.io/posts/stonks/build_dashboard_with_openbb/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
