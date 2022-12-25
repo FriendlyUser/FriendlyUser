@@ -36,7 +36,7 @@ Some of my financial projects are available at https://github.com/dli-invest
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to use argparse with python](https://friendlyuser.github.io/posts/tech/scripting/argparse_with_python/)
-- [Building](https://friendlyuser.github.io/posts/stonks/web/generate_reports_with_13F_filings_with_markdown/)
+- [Building a report with 13F filings](https://friendlyuser.github.io/posts/stonks/web/generate_reports_with_13F_filings_with_markdown/)
 - [Scrapping sec filings with python and secedgar](https://friendlyuser.github.io/posts/stonks/web/scrap_from_sec_with_python/)
 - [Using git to filter for commits between tags](https://friendlyuser.github.io/posts/tech/scripting/using_git_to_filter_for_commits/)
 - [Introduction to Flutter](https://friendlyuser.github.io/posts/introduction_to_flutter/)
