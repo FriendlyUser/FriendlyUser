@@ -35,11 +35,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building](https://friendlyuser.github.io/posts/stonks/web/generate_reports_with_13F_filings_with_markdown/)
+- [Scrapping sec filings with python and secedgar](https://friendlyuser.github.io/posts/stonks/web/scrap_from_sec_with_python/)
 - [Using git to filter for commits between tags](https://friendlyuser.github.io/posts/tech/scripting/using_git_to_filter_for_commits/)
 - [Introduction to Flutter](https://friendlyuser.github.io/posts/introduction_to_flutter/)
 - [Get Transcript of youtube livestreams Part II](https://friendlyuser.github.io/posts/stonks/get_transcript_of_youtube_livestreams_part_two/)
-- [Get Transcript of youtube livestreams Part I](https://friendlyuser.github.io/posts/stonks/get_transcript_of_youtube_livestreams_part_one/)
-- [Spaceshooter in Go](https://friendlyuser.github.io/posts/tech/spaceshooter_in_go/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
