@@ -36,11 +36,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Using python to scrap data for a pokedex](https://friendlyuser.github.io/posts/tech/scripting/pokemon_analytics/)
+- [Publishing a java package to github and jitpack](https://friendlyuser.github.io/posts/tech/java/publishing_package_for_java/)
+- [Tracking files with a smart contract](https://friendlyuser.github.io/posts/tech/dapps/tracking_files_with_a_smart_contract/)
+- [Simple collapsible component](https://friendlyuser.github.io/posts/tech/simple_collapsible_component/)
+- [Analytics on Pokemon using polygot notebooks](https://friendlyuser.github.io/posts/tech/scripting/pokemon_analytics/)
 - [Using python to scrap data for a pokedex](https://friendlyuser.github.io/posts/tech/flutter/scrapping_data_for_pokedex/)
-- [How to use argparse with python](https://friendlyuser.github.io/posts/tech/scripting/argparse_with_python/)
-- [Building a report with 13F filings](https://friendlyuser.github.io/posts/stonks/web/generate_reports_with_13F_filings_with_markdown/)
-- [Scrapping sec filings with python and secedgar](https://friendlyuser.github.io/posts/stonks/web/scrap_from_sec_with_python/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
