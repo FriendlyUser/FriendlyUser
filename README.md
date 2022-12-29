@@ -36,11 +36,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing basic pokedex part I](https://friendlyuser.github.io/posts/tech/flutter/pokedex_app_partI/)
 - [Publishing a java package to github and jitpack](https://friendlyuser.github.io/posts/tech/java/publishing_package_for_java/)
 - [Tracking files with a smart contract](https://friendlyuser.github.io/posts/tech/dapps/tracking_files_with_a_smart_contract/)
 - [Simple collapsible component](https://friendlyuser.github.io/posts/tech/simple_collapsible_component/)
 - [Analytics on Pokemon using polygot notebooks](https://friendlyuser.github.io/posts/tech/scripting/pokemon_analytics/)
-- [Using python to scrap data for a pokedex](https://friendlyuser.github.io/posts/tech/flutter/scrapping_data_for_pokedex/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
