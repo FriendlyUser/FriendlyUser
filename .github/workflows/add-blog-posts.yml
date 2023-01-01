@@ -15,4 +15,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://friendlyuser.github.io/rss"
-          filter_dates: "daysAgo/180/"
+          max_post_count: 5
+          filter_dates: "daysAgo/180"
+          remove_duplicates: true
