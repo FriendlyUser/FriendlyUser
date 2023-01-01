@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Top languages stats, dont think these are accurate at all. Here for your amusement
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriendlyUser&hide=html,Vue,Css,Jupyter%20Notebook,HLSL,Shell&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriendlyUser&hide=Tex,html,Vue,Css,Jupyter%20Notebook,HLSL,Shell&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Stack overflow stats
