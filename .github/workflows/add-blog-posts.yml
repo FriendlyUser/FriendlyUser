@@ -16,5 +16,5 @@ jobs:
         with:
           feed_list: "https://friendlyuser.github.io/rss"
           max_post_count: 5
-          filter_dates: "daysAgo/180"
+          filter_dates: "daysAgo/60/currentMonth"
           remove_duplicates: true
