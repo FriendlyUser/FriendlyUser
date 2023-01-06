@@ -36,11 +36,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating custom subtitles using python and ffmpeg](https://friendlyuser.github.io/posts/tech/scripting/creating_my_own_subs/)
 - [Resume generation in dart](https://friendlyuser.github.io/posts/tech/flutter/resume_generation_dart/)
 - [Implementing basic pokedex part I](https://friendlyuser.github.io/posts/tech/flutter/pokedex_app_partI/)
 - [Publishing a java package to github and jitpack](https://friendlyuser.github.io/posts/tech/java/publishing_package_for_java/)
 - [Simple collapsible component](https://friendlyuser.github.io/posts/tech/simple_collapsible_component/)
-- [Analytics on Pokemon using polygot notebooks](https://friendlyuser.github.io/posts/tech/scripting/pokemon_analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
