@@ -36,11 +36,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is a package.json file in javascript](https://friendlyuser.github.io/posts/tech/js/what_is_a_package_json_file/)
 - [Implementing caching in github actions](https://friendlyuser.github.io/posts/tech/scripting/caching_with_github_actions/)
 - [Creating custom subtitles using python and ffmpeg](https://friendlyuser.github.io/posts/tech/scripting/creating_my_own_subs/)
 - [Resume generation in dart](https://friendlyuser.github.io/posts/tech/flutter/resume_generation_dart/)
 - [Implementing basic pokedex part I](https://friendlyuser.github.io/posts/tech/flutter/pokedex_app_partI/)
-- [Publishing a java package to github and jitpack](https://friendlyuser.github.io/posts/tech/java/publishing_package_for_java/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
