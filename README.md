@@ -36,11 +36,11 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I style svg in next.js](https://friendlyuser.github.io/posts/tech/js/implementing_svg_styling_in_nextjs/)
 - [Conscrap 2.0.0 Release](https://friendlyuser.github.io/posts/stonks/conscrap_2.0.0_release)
 - [What is a package.json file in javascript](https://friendlyuser.github.io/posts/tech/js/what_is_a_package_json_file/)
 - [Implementing caching in github actions](https://friendlyuser.github.io/posts/tech/scripting/caching_with_github_actions/)
 - [Creating custom subtitles using python and ffmpeg](https://friendlyuser.github.io/posts/tech/scripting/creating_my_own_subs/)
-- [Resume generation in dart](https://friendlyuser.github.io/posts/tech/flutter/resume_generation_dart/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
