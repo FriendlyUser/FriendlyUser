@@ -34,6 +34,16 @@ Stack overflow stats
 
 Some of my financial projects are available at https://github.com/dli-invest
 
+## Publications
+![Intro To javascript](https://m.media-amazon.com/images/I/51b3ChsILyL.jpg)
+
+Recently, I have published an introductory book in javascript via kdp, 
+
+Please purchase and/or review it if you get a chance.
+
+https://www.amazon.com/dp/B0BSL14M71
+
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Natural Gas Price Analysis with Python](https://friendlyuser.github.io/posts/stonks/ta/natural_gas_ta_with_python/)
