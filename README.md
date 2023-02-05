@@ -46,11 +46,11 @@ https://www.amazon.com/dp/B0BSL14M71
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reading indeed posts to scrap job listings &lpar;does not work anymore&rpar;](https://friendlyuser.github.io/posts/tech/python/indeed_parsing/)
 - [Converting React CSS styles to CSS classes](https://friendlyuser.github.io/posts/tech/css/how_to_convert_inline_jsx_styles_to_css_styles/)
 - [Liability Driven Investing flow chart](https://friendlyuser.github.io/posts/stonks/web/ldi_diagram_in_tex/)
 - [Investing homepage with waves animation](https://friendlyuser.github.io/posts/tech/js/investing_homepage/)
 - [Natural Gas Price Analysis with Python](https://friendlyuser.github.io/posts/stonks/ta/natural_gas_ta_with_python/)
-- [Using chatgpt to generate blog posts](https://friendlyuser.github.io/posts/tech/python/chatgpt_blog_generation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
