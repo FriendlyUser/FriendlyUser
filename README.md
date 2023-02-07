@@ -46,11 +46,11 @@ https://www.amazon.com/dp/B0BSL14M71
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scraping HTML Tables with Pandas](https://friendlyuser.github.io/posts/stonks/web/scrapping_tables_with_pandas/)
 - [Using golang to filter through reddit posts](https://friendlyuser.github.io/posts/stonks/web/scrapping_comments_from_reddit/)
 - [Reading indeed posts to scrap job listings &lpar;does not work anymore&rpar;](https://friendlyuser.github.io/posts/tech/python/indeed_parsing/)
 - [Converting React CSS styles to CSS classes](https://friendlyuser.github.io/posts/tech/css/how_to_convert_inline_jsx_styles_to_css_styles/)
 - [Liability Driven Investing flow chart](https://friendlyuser.github.io/posts/stonks/web/ldi_diagram_in_tex/)
-- [Investing homepage with waves animation](https://friendlyuser.github.io/posts/tech/js/investing_homepage/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
