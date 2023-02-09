@@ -46,11 +46,11 @@ https://www.amazon.com/dp/B0BSL14M71
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Searching for news with google news rss feeds](https://friendlyuser.github.io/posts/tech/net/news_app_csharp/)
 - [Alfred backend with openfoodfacts](https://friendlyuser.github.io/posts/tech/flutter/alfred_backend_with_open_food_facts_api/)
 - [Scraping HTML Tables with Pandas](https://friendlyuser.github.io/posts/stonks/web/scrapping_tables_with_pandas/)
 - [How I deployed a dart alfred server to hugging space](https://friendlyuser.github.io/posts/tech/flutter/how_to_deploy_dart_to_hs/)
 - [Using golang to filter through reddit posts](https://friendlyuser.github.io/posts/stonks/web/scrapping_comments_from_reddit/)
-- [Reading indeed posts to scrap job listings &lpar;does not work anymore&rpar;](https://friendlyuser.github.io/posts/tech/python/indeed_parsing/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
