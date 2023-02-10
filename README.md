@@ -46,11 +46,11 @@ https://www.amazon.com/dp/B0BSL14M71
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to download reports from the CSE exchange with python](https://friendlyuser.github.io/posts/tech/python/download_files_from_cse_exchange/)
 - [Searching for news with google news rss feeds](https://friendlyuser.github.io/posts/tech/net/news_app_csharp/)
 - [Converting pdfs to pngs with imagemagick](https://friendlyuser.github.io/posts/tech/python/convert_pdfs_to_pngs_imagemagick/)
 - [Alfred backend with openfoodfacts](https://friendlyuser.github.io/posts/tech/flutter/alfred_backend_with_open_food_facts_api/)
 - [Scraping HTML Tables with Pandas](https://friendlyuser.github.io/posts/stonks/web/scrapping_tables_with_pandas/)
-- [How I deployed a dart alfred server to hugging space](https://friendlyuser.github.io/posts/tech/flutter/how_to_deploy_dart_to_hs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
