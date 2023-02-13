@@ -47,11 +47,11 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scrapping Super Bowl Winners](https://friendlyuser.github.io/posts/tech/python/superbowl/)
 - [Introduction to static site generations](https://friendlyuser.github.io/posts/top_static_site_generator/)
 - [Moving files with a script in go](https://friendlyuser.github.io/posts/tech/go/moving_files_with_script_in_go/)
 - [Scrapping the steam top sellers with dart](https://friendlyuser.github.io/posts/tech/flutter/steam_top_sellers_in_dart/)
 - [Introduction to jupyter notebooks](https://friendlyuser.github.io/posts/tech/introduction_to_jupyter_notebooks/)
-- [Introduction to csharp](https://friendlyuser.github.io/posts/tech/go/introduction_to_golang/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
