@@ -41,7 +41,7 @@ Recently, I have published an introductory book in javascript via kdp,
 
 Please purchase and/or review it if you get a chance.
 
-https://www.amazon.com/dp/B0BSL14M71
+https://www.amazon.com/dp/B0BSL14M71 or at https://friendlyuser.github.io/assets/pdfs/introToJs.pdf for a free copy
 
 You can view my blog posts at [medium](https://davidli012345.medium.com/subscribe) and/or [subscribe to medium](https://medium.com/@davidli012345/membership).
 
