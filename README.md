@@ -47,11 +47,11 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a networked game with phaser and nodejs](https://friendlyuser.github.io/posts/tech/js/phaser_networked_game/)
 - [Getting youtube videos of interest in python](https://friendlyuser.github.io/posts/tech/python/youtube_api_get_videos_of_interest/)
 - [Using the league of legends api to get games via deno](https://friendlyuser.github.io/posts/tech/js/using_lol_api_to_get_games/)
 - [Custom image component in react](https://friendlyuser.github.io/posts/tech/js/making_an_custom_image_component/)
 - [How I implemented a stock screener in python part I](https://friendlyuser.github.io/posts/stonks/ta/stonk_screener_part_I/)
-- [How I implemented a price card component in react](https://friendlyuser.github.io/posts/tech/js/building_a_price_card_component_in_react/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
