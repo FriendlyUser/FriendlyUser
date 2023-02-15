@@ -48,10 +48,10 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Custom image component in react](https://friendlyuser.github.io/posts/tech/js/making_an_custom_image_component/)
+- [How I implemented a stock screener in python part I](https://friendlyuser.github.io/posts/stonks/ta/stonk_screener_part_I/)
 - [How I implemented a price card component in react](https://friendlyuser.github.io/posts/tech/js/building_a_price_card_component_in_react/)
 - [Css in js vs plain css and styled components](https://friendlyuser.github.io/posts/tech/css/css_in_jsx_vs_react_styled/)
 - [Implementation animations with css and react-intersection-observer](https://friendlyuser.github.io/posts/tech/css/css_animations_in_react/)
-- [Web Scrapping Super Bowl Winners](https://friendlyuser.github.io/posts/tech/python/superbowl/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
