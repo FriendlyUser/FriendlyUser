@@ -47,11 +47,11 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Environment Variables](https://friendlyuser.github.io/posts/tech/utils/cloud_env_vars/)
 - [In this post I will compare github, gitlab, and bitbucket](https://friendlyuser.github.io/posts/random/free_education_software_development/)
+- [How to customize vscode settings](https://friendlyuser.github.io/posts/tech/utils/customizing_vscode_settings/)
 - [How to use Google Maps API in your web application](https://friendlyuser.github.io/posts/tech/js/getting_started_with_google_maps/)
 - [Creating a networked game with phaser and nodejs](https://friendlyuser.github.io/posts/tech/js/phaser_networked_game/)
-- [Getting youtube videos of interest in python](https://friendlyuser.github.io/posts/tech/python/youtube_api_get_videos_of_interest/)
-- [Using the league of legends api to get games via deno](https://friendlyuser.github.io/posts/tech/js/using_lol_api_to_get_games/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
