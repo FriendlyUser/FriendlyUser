@@ -47,11 +47,11 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with google maps](https://friendlyuser.github.io/posts/tech/js/deploy_to_overleaf_button/)
 - [Converting saber site to nextra](https://friendlyuser.github.io/posts/tech/js/porting_static_site_to_nextra/)
 - [Cloud Environment Variables](https://friendlyuser.github.io/posts/tech/utils/cloud_env_vars/)
 - [In this post I will compare github, gitlab, and bitbucket](https://friendlyuser.github.io/posts/random/free_education_software_development/)
 - [How to customize vscode settings](https://friendlyuser.github.io/posts/tech/utils/customizing_vscode_settings/)
-- [How to use Google Maps API in your web application](https://friendlyuser.github.io/posts/tech/js/getting_started_with_google_maps/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
