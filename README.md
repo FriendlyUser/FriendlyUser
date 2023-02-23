@@ -47,11 +47,11 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is web3.](https://friendlyuser.github.io/posts/tech/2023/web3_introduction/)
 - [How I will describe how to make a qt app that edits a yaml file.](https://friendlyuser.github.io/posts/tech/python/qt_app/)
 - [Introduction to JIRA query languages.](https://friendlyuser.github.io/posts/tech/scripting/intro_to_jql/)
 - [In this blog post I will show you to build a markdown viewer in Flutter.](https://friendlyuser.github.io/posts/tech/flutter/chrome_extension_flutter/)
-- [What is laravel.](https://friendlyuser.github.io/posts/tech/intro_to_laravel/)
-- [What is web3.](https://friendlyuser.github.io/posts/tech/web3_introduction/)
+- [What is laravel.](https://friendlyuser.github.io/posts/tech/2023/intro_to_laravel/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
