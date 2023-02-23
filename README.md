@@ -47,9 +47,9 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I will describe how to make a qt app that edits a yaml file.](https://friendlyuser.github.io/posts/tech/python/qt_app/)
 - [Introduction to JIRA query languages.](https://friendlyuser.github.io/posts/tech/scripting/intro_to_jql/)
 - [In this blog post I will show you to build a markdown viewer in Flutter.](https://friendlyuser.github.io/posts/tech/flutter/chrome_extension_flutter/)
-- [How I will describe how to make a qt app that edits a yaml file.](https://friendlyuser.github.io/posts/tech/python/qt_app/)
 - [Create a deploy to overleaf button](https://friendlyuser.github.io/posts/tech/js/deploy_to_overleaf_button/)
 - [Here I will cover how to use chatgpt extract keywords and describe code.](https://friendlyuser.github.io/posts/tech/python/chatgpt_extract_description_and_keywords/)
 <!-- BLOG-POST-LIST:END -->
