@@ -47,11 +47,11 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chapter 2 Basic syntax and data types.](https://friendlyuser.github.io/posts/tech/python/transcribe_youtube_videos/)
 - [Laravel api that takes parses ip addresses.](https://friendlyuser.github.io/posts/tech/php/laravel_how_to_make_api/)
 - [Using pandas and bs4 for web scrapping.](https://friendlyuser.github.io/posts/tech/python/using_pandas_and_bs4_for_web/)
 - [What is web3.](https://friendlyuser.github.io/posts/tech/2023/web3_introduction/)
 - [How I will describe how to make a qt app that edits a yaml file.](https://friendlyuser.github.io/posts/tech/python/qt_app/)
-- [Introduction to JIRA query languages.](https://friendlyuser.github.io/posts/tech/scripting/intro_to_jql/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
