@@ -35,13 +35,21 @@ Stack overflow stats
 Some of my financial projects are available at https://github.com/dli-invest
 
 ## Publications
-![Intro To javascript](https://m.media-amazon.com/images/I/51b3ChsILyL.jpg)
 
-Recently, I have published an introductory book in javascript via kdp, 
+[![Python Programming](https://m.media-amazon.com/images/I/41Mj384vgeL._SY346_.jpg)](https://www.amazon.com/dp/B0BXFLYRBD) [![Intro To javascript](https://m.media-amazon.com/images/I/51b3ChsILyL.jpg)](https://www.amazon.com/dp/B0BSL14M71)
+
+Recently, I have published an introductory book in javascript and python via kdp, 
 
 Please purchase and/or review it if you get a chance.
 
-https://www.amazon.com/dp/B0BSL14M71 or at https://friendlyuser.github.io/assets/pdfs/introToJs.pdf for a free copy
+### Intro to Python
+
+* https://friendlyuser.github.io/IntroToPython/intro.html 
+* https://www.amazon.com/dp/B0BXFLYRBD
+
+### Intro to Javascript
+* https://www.amazon.com/dp/B0BSL14M71 
+* https://friendlyuser.github.io/assets/pdfs/introToJs.pdf for a free copy.
 
 You can view my blog posts at [medium](https://davidli012345.medium.com/subscribe) and/or [subscribe to medium](https://medium.com/@davidli012345/membership).
 
