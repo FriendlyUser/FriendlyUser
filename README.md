@@ -47,11 +47,11 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 2 Basic syntax and data types.](https://friendlyuser.github.io/posts/tech/python/transcribe_youtube_videos/)
+- [Chapter 10 Introduction to data science in python.](https://friendlyuser.github.io/posts/tech/python/chap_10/)
+- [Chapter 7 File handling and data processing.](https://friendlyuser.github.io/posts/tech/python/chap_7/)
+- [Chapter 8 File handling and data processing.](https://friendlyuser.github.io/posts/tech/python/chap_8/)
 - [Yield Functions in Python](https://friendlyuser.github.io/posts/tech/python/introToPython/yield_functions/)
-- [Laravel api that takes parses ip addresses.](https://friendlyuser.github.io/posts/tech/php/laravel_how_to_make_api/)
-- [Using pandas and bs4 for web scrapping.](https://friendlyuser.github.io/posts/tech/python/using_pandas_and_bs4_for_web/)
-- [What is web3.](https://friendlyuser.github.io/posts/tech/2023/web3_introduction/)
+- [Chapter 4 Control flow and functions.](https://friendlyuser.github.io/posts/tech/python/chap_4/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
