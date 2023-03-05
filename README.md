@@ -55,11 +55,11 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [File Handling and Error Handling in Go.](https://friendlyuser.github.io/posts/tech/go/chapter_10_why_golang/)
+- [Object-Oriented Programming in Go.](https://friendlyuser.github.io/posts/tech/go/chapter_6_why_golang/)
+- [Concurrency in Go .](https://friendlyuser.github.io/posts/tech/go/chapter_7_why_golang/)
+- [History of golang.](https://friendlyuser.github.io/posts/tech/go/chapter_1_why_golang/)
 - [Creating a custom wordpress theme.](https://friendlyuser.github.io/posts/tech/php/making_wordpress_theme/)
-- [Seven Useful Chatgpt prompts for Software Developers.](https://friendlyuser.github.io/posts/tech/seven_chatgpt_prompts/)
-- [How to create an infinite animation for a car.](https://friendlyuser.github.io/posts/tech/js/car_animation/)
-- [Chapter 10 Introduction to data science in python.](https://friendlyuser.github.io/posts/tech/python/chap_10/)
-- [Chapter 7 File handling and data processing.](https://friendlyuser.github.io/posts/tech/python/chap_7/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
