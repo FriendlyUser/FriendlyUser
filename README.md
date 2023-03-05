@@ -55,11 +55,11 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a custom wordpress theme.](https://friendlyuser.github.io/posts/tech/php/making_wordpress_theme/)
 - [How to create an infinite animation for a car.](https://friendlyuser.github.io/posts/tech/js/car_animation/)
 - [Chapter 10 Introduction to data science in python.](https://friendlyuser.github.io/posts/tech/python/chap_10/)
 - [Chapter 7 File handling and data processing.](https://friendlyuser.github.io/posts/tech/python/chap_7/)
 - [Chapter 8 File handling and data processing.](https://friendlyuser.github.io/posts/tech/python/chap_8/)
-- [Yield Functions in Python](https://friendlyuser.github.io/posts/tech/python/introToPython/yield_functions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
