@@ -33,10 +33,10 @@ Stack overflow stats
 [![David Li StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10226731)](https://stackoverflow.com/users/10226731/grandfleet)
 
 Some of my financial projects are available at https://github.com/dli-invest
+ 
+## Publications 
 
-## Publications
-
-[![Python Programming](https://m.media-amazon.com/images/I/41Mj384vgeL._SY346_.jpg)](https://www.amazon.com/dp/B0BXFLYRBD) [![Intro To javascript](https://m.media-amazon.com/images/I/51b3ChsILyL.jpg)](https://www.amazon.com/dp/B0BSL14M71) [![Golang Coding](https://m.media-amazon.com/images/I/41k3B8hTLZL.jpg)](https://www.amazon.com/dp/B0BXK22SKC)
+[![Python Programming](https://m.media-amazon.com/images/I/41Mj384vgeL._SY346_.jpg)](https://www.amazon.com/dp/B0BXFLYRBD) [![Intro To javascript](https://m.media-amazon.com/images/I/51b3ChsILyL._SY346_.jpg)](https://www.amazon.com/dp/B0BSL14M71) [![Golang Coding](https://m.media-amazon.com/images/I/41k3B8hTLZL.jpg)](https://www.amazon.com/dp/B0BXK22SKC)
 
 Recently, I have published an introductory book in javascript and python via kdp, 
 
