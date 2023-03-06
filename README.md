@@ -55,11 +55,11 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to rank software engineers using bash](https://friendlyuser.github.io/posts/tech/scripting/rank_engineers_in_bash/)
 - [File Handling and Error Handling in Go.](https://friendlyuser.github.io/posts/tech/go/chapter_10_why_golang/)
 - [Object-Oriented Programming in Go.](https://friendlyuser.github.io/posts/tech/go/chapter_6_why_golang/)
 - [Concurrency in Go .](https://friendlyuser.github.io/posts/tech/go/chapter_7_why_golang/)
 - [History of golang.](https://friendlyuser.github.io/posts/tech/go/chapter_1_why_golang/)
-- [Creating a custom wordpress theme.](https://friendlyuser.github.io/posts/tech/php/making_wordpress_theme/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
