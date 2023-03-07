@@ -55,11 +55,11 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to React](https://friendlyuser.github.io/posts/tech/react/chap_1_react/)
-- [React Class Components](https://friendlyuser.github.io/posts/tech/react/chap_3_react/)
-- [Next.js Basics](https://friendlyuser.github.io/posts/tech/react/chap_6_react/)
-- [Using UI Frameworks with React](https://friendlyuser.github.io/posts/tech/react/chap_8_react/)
-- [Using react context to manage state](https://friendlyuser.github.io/posts/tech/react/react_context/)
+- [Getting started with react-spring](https://friendlyuser.github.io/posts/tech/js/intro_to_react_spring/)
+- [How to rank software engineers using bash](https://friendlyuser.github.io/posts/tech/scripting/rank_engineers_in_bash/)
+- [File Handling and Error Handling in Go.](https://friendlyuser.github.io/posts/tech/go/chapter_10_why_golang/)
+- [Object-Oriented Programming in Go.](https://friendlyuser.github.io/posts/tech/go/chapter_6_why_golang/)
+- [Concurrency in Go .](https://friendlyuser.github.io/posts/tech/go/chapter_7_why_golang/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
