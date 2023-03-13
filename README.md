@@ -38,6 +38,8 @@ Some of my financial projects are available at https://github.com/dli-invest
 
 [![C# Programming](https://m.media-amazon.com/images/I/414HUhz-9gL.jpg)](https://www.amazon.com/dp/B0BY18F7HB) [![Python Programming](https://m.media-amazon.com/images/I/41Mj384vgeL._SY346_.jpg)](https://www.amazon.com/dp/B0BXFLYRBD) [![Intro To javascript](https://m.media-amazon.com/images/I/51b3ChsILyL._SY346_.jpg)](https://www.amazon.com/dp/B0BSL14M71) [![Golang Coding](https://m.media-amazon.com/images/I/41k3B8hTLZL.jpg)](https://www.amazon.com/dp/B0BXK22SKC) [![React Programming](https://m.media-amazon.com/images/I/51zK51EjIfL.jpg)](https://www.amazon.com/dp/B0BXNPWTHB)]
 
+[![Starting with Tex](https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41pJEK6B16L.jpg)](https://www.amazon.com/dp/B0BY81DS3Q)]
+
 Recently, I have published an introductory book in javascript and python via kdp, 
 
 Please purchase and/or review it if you get a chance.
