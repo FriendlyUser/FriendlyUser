@@ -56,10 +56,10 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Review of Polygot Notebooks](https://friendlyuser.github.io/posts/tech/net/review_of_polygot_notebooks/)
-- [Ensure Elements are always visible on screen](https://friendlyuser.github.io/posts/tech/js/ui/ensure_element_in_viewport/)
-- [Getting started with react-spring](https://friendlyuser.github.io/posts/tech/js/intro_to_react_spring/)
-- [How to rank software engineers using bash](https://friendlyuser.github.io/posts/tech/scripting/rank_engineers_in_bash/)
-- [File Handling and Error Handling in Go.](https://friendlyuser.github.io/posts/tech/go/chapter_10_why_golang/)
+- [Advanced Topics in LaTeX](https://friendlyuser.github.io/posts/tech/tex/advanced_topics_in_tex/)
+- [Collaborating on Documents with LaTeX](https://friendlyuser.github.io/posts/tech/tex/collaborating_on_documents/)
+- [Getting started with tikz](https://friendlyuser.github.io/posts/tech/tex/diagrams_in_tex/)
+- [Creating Front and Back Matter with LaTeX](https://friendlyuser.github.io/posts/tech/tex/front_back_matter_tex/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
