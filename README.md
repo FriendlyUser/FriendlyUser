@@ -59,9 +59,9 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 <!-- BLOG-POST-LIST:START -->
 - [Review of Polygot Notebooks](https://friendlyuser.github.io/posts/tech/net/review_of_polygot_notebooks/)
 - [Options to implement search on your website](https://friendlyuser.github.io/posts/tech/react/search_on_webpage/)
+- [Abstract Classes in Kotlin](https://friendlyuser.github.io/posts/tech/java/abstract_classes_in_kotlin/)
 - [GUI programming in Java](https://friendlyuser.github.io/posts/tech/java/gui_programming_in_java/)
-- [Set and map in Java](https://friendlyuser.github.io/posts/tech/java/set_and_map_in_java/)
-- [Advanced Topics in LaTeX](https://friendlyuser.github.io/posts/tech/tex/advanced_topics_in_tex/)
+- [Object-Oriented Programming in Kotlin](https://friendlyuser.github.io/posts/tech/java/object_oriented_programming_in_kotlin/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
