@@ -58,10 +58,10 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to use Rust&#39;s Foreign Function Interface](https://friendlyuser.github.io/posts/tech/rust/how_to_use_rust_ffi_capabilities/)
+- [Rust&#39;s Threads: Building a Program to Calculate Pi Using Multithreading](https://friendlyuser.github.io/posts/tech/rust/getting_started_with_threads_in_rust/)
 - [How to use Rust Collections](https://friendlyuser.github.io/posts/tech/rust/how_to_use_rust_collections/)
 - [Rust&#39;s borrowing rules](https://friendlyuser.github.io/posts/tech/rust/intro_to_borrowed_reference_in_rust/)
 - [Review of Polygot Notebooks](https://friendlyuser.github.io/posts/tech/net/review_of_polygot_notebooks/)
-- [Options to implement search on your website](https://friendlyuser.github.io/posts/tech/react/search_on_webpage/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
