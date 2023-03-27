@@ -53,11 +53,11 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use AI to generate logos](https://friendlyuser.github.io/posts/tech/ai/how_I_generate_logos_with_ai/)
 - [How to use Rust&#39;s Foreign Function Interface](https://friendlyuser.github.io/posts/tech/rust/how_to_use_rust_ffi_capabilities/)
 - [How to use Rust&#39;s macros](https://friendlyuser.github.io/posts/tech/rust/how_to_use_rust_macros/)
 - [Unsafe Rust: Going Below the Abstraction](https://friendlyuser.github.io/posts/tech/rust/how_to_use_unsafe_operators_in_rust/)
 - [How to use sycnronization primitives in Rust](https://friendlyuser.github.io/posts/tech/rust/rust_synchronize_primitives/)
-- [Rust&#39;s IO: Build a program that reads in a CSV file and performs operations such as sorting and filtering on the data.](https://friendlyuser.github.io/posts/tech/rust/getting_started_with_io_in_rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
