@@ -54,10 +54,10 @@ You can view my blog posts at [medium](https://davidli012345.medium.com/subscrib
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to build a contact book cli application in Python](https://friendlyuser.github.io/posts/tech/python/projects/contact_book/)
-- [How to use AI to generate logos](https://friendlyuser.github.io/posts/tech/ai/how_I_generate_logos_with_ai/)
-- [How to extract text from a PDF file in Python](https://friendlyuser.github.io/posts/tech/python/extract_text_from_pdf_in_python/)
-- [How to use Rust&#39;s Foreign Function Interface](https://friendlyuser.github.io/posts/tech/rust/how_to_use_rust_ffi_capabilities/)
-- [How to use Rust&#39;s macros](https://friendlyuser.github.io/posts/tech/rust/how_to_use_rust_macros/)
+- [Android Room Persistence Library A Comprehensive Guide](https://friendlyuser.github.io/posts/tech/2023/Android_Room_Persistence_Library_A_Comprehensive_Guide/)
+- [C++ Type Traits and Metaprogramming A Deep Dive](https://friendlyuser.github.io/posts/tech/2023/C++_Type_Traits_and_Metaprogramming_A_Deep_Dive/)
+- [How to Publish a Package in Swift](https://friendlyuser.github.io/posts/tech/2023/How_to_Publish_a_Package_in_Swift/)
+- [Using Gin Framework in Golang](https://friendlyuser.github.io/posts/tech/2023/Using_Gin_Framework_in_Golang/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
