@@ -36,9 +36,7 @@ Some of my financial projects are available at https://github.com/dli-invest
  
 ## Ecommerce
 
-I have a few AI generated art, logos and more at my [gumroad shop](https://grandfleet.gumroad.com/)
-
-Recently, I have published an introductory book in javascript and python via kdp.
+I have published an introductory book in javascript and python via kdp.
 
 ### Intro to Python
 
