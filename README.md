@@ -33,19 +33,7 @@ Stack overflow stats
 [![David Li StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10226731)](https://stackoverflow.com/users/10226731/grandfleet)
 
 Some of my financial projects are available at https://github.com/dli-invest
- 
-## Ecommerce
 
-I have published an introductory book in javascript and python via kdp.
-
-### Intro to Python
-
-* https://friendlyuser.github.io/IntroToPython/intro.html 
-* https://www.amazon.com/dp/B0BXFLYRBD
-
-### Intro to Javascript
-* https://www.amazon.com/dp/B0BSL14M71 
-* https://friendlyuser.github.io/assets/pdfs/introToJs.pdf for a free copy.
 
 You can view my blog posts at [medium](https://davidli012345.medium.com/subscribe) and/or [subscribe to medium](https://medium.com/@davidli012345/membership).
 
