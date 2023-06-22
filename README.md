@@ -34,6 +34,15 @@ Stack overflow stats
 
 Some of my financial projects are available at https://github.com/dli-invest
 
+I have created an introductory book in javascript and python.
+
+### Intro to Python
+
+* https://friendlyuser.github.io/IntroToPython/intro.html 
+
+### Intro to Javascript
+* https://friendlyuser.github.io/assets/pdfs/introToJs.pdf for a free copy.
+  
 
 You can view my blog posts at [medium](https://davidli012345.medium.com/subscribe) and/or [subscribe to medium](https://medium.com/@davidli012345/membership).
 
