@@ -44,7 +44,7 @@ I have created an introductory book in javascript and python.
 * https://friendlyuser.github.io/assets/pdfs/introToJs.pdf for a free copy.
   
 
-You can view my blog posts at [medium](https://davidli012345.medium.com/subscribe) and/or [subscribe to medium](https://medium.com/@davidli012345/membership).
+You can view my blog posts at [medium](https://dlcoder.medium.com/subscribe) and/or [subscribe to medium](https://medium.com/@dlcoder/membership).
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
