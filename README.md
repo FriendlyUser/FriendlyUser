@@ -49,10 +49,10 @@ You can view my blog posts at [medium](https://dlcoder.medium.com/subscribe) and
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to build a contact book cli application in Python](https://friendlyuser.github.io/posts/tech/python/projects/contact_book/)
+- [The Benefits of Using WebAssembly for Web Development](https://friendlyuser.github.io/posts/tech/2023/The_Benefits_of_Using_WebAssembly_for_Web_Development/)
+- [Managing Rust Projects and Dependencies with Cargo](https://friendlyuser.github.io/posts/tech/2023/Managing_Rust_Projects_and_Dependencies_with_Cargo/)
 - [Android Room Persistence Library A Comprehensive Guide](https://friendlyuser.github.io/posts/tech/2023/Android_Room_Persistence_Library_A_Comprehensive_Guide/)
-- [C++ Type Traits and Metaprogramming A Deep Dive](https://friendlyuser.github.io/posts/tech/2023/C++_Type_Traits_and_Metaprogramming_A_Deep_Dive/)
-- [How to Publish a Package in Swift](https://friendlyuser.github.io/posts/tech/2023/How_to_Publish_a_Package_in_Swift/)
-- [Using Gin Framework in Golang](https://friendlyuser.github.io/posts/tech/2023/Using_Gin_Framework_in_Golang/)
+- [Android ButterKnife View Binding Library A Comprehensive Overview](https://friendlyuser.github.io/posts/tech/2023/Android_ButterKnife_View_Binding_Library_A_Comprehensive_Overview/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donate
