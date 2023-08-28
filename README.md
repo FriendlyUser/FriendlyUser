@@ -59,3 +59,7 @@ You can view my blog posts at [medium](https://dlcoder.medium.com/subscribe) and
 If you would like to motivate me to spend more time improving open source projects please consider donating.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Z6M6Y83D3URSU&item_name=Motivating+me+to+continue+to+produce+open+source+projects&currency_code=CAD)
+
+Or considering purchasing some of my ai art
+
+https://www.redbubble.com/studio/promote/146846339?ref=earnings-by-artwork-promote
