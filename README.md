@@ -62,4 +62,4 @@ If you would like to motivate me to spend more time improving open source projec
 
 Or considering purchasing some of my ai art
 
-https://www.redbubble.com/studio/promote/146846339?ref=earnings-by-artwork-promote
+https://TeeMugs3.redbubble.com
