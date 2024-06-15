@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on learning ways to gamble on the stonk market
-- 🤔 Aiming to learn C# through personal projects asap.
 - 📫 How to reach me: by email at davidli012345@gmail.com or find me on [Stack Overflow](https://stackoverflow.com/users/10226731/grandfleet)
 
 [![FriendlyUser's github stats](https://github-readme-stats.vercel.app/api?username=FriendlyUser&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
